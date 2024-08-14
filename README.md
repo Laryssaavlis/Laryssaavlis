@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! My name is Laryssa and I'm a developer front- end in construction with 1 and 7 months the experiencie</h2>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
