@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Laryssa and I'm a front-end developer in construction with 1 and 7 months of experience  
   
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/laryssa-santos-618a75190/" target="_blank">
+<a href="https://linkedin.com/in/laryssa-santos-618a75190/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
