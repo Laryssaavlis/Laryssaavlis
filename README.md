@@ -1,4 +1,4 @@
-## Hey 👋, I'm Laryssa and I'm a front-end developer in construction with 1 and 7 months of experience  
+## Hey 👋, I'm Laryssa and I'm a front-end developer in construction with 1 and 8 months of experience  
   
 
 <a href="https://linkedin.com/in/laryssa-santos-618a75190/" target="_blank">
